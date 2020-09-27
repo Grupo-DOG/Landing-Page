@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Gatsby Starter Eventually', // <title>
-  manifestName: 'Eventually',
+  manifestName: 'DOG',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
